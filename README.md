@@ -359,3 +359,4 @@ After installing all the necessary software and configuring the board, we go ahe
  <img src="images/mounting_result.png" data-canonical-src="images/mounting_result.png" width="600"/><br/>
  <i>Intel Realsense Camera D455 mounted on TurtleBot3</i>
  </p>
+The oral presentation can be found [here](https://youtu.be/G0dWhif13T4).                                                                              
